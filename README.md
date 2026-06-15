@@ -1,20 +1,23 @@
-# WEB103 Project 2 - *Name of App Here*
+# WEB103 Project 2 - *Listicle Part 2*
 
 Submitted by: **Your name here**
 
 About this web app: **App description here**
 
-Time spent: **X** hours
+Time spent: **2** hours
+Refactor the list-based web app you developed in Unit 1 to serve data from a database. You'll need to create the database schema from scratch and seed the table with the data from each list item you choose. You'll then modify the frontend of your web app, still without using a frontend framework, to display data retrieved from the database.
+
+
 
 ## Required Features
 
 The following **required** functionality is completed:
 
 <!-- Make sure to check off completed functionality below -->
-- [ ] **The web app uses only HTML, CSS, and JavaScript without a frontend framework**
-- [ ] **The web app is connected to a PostgreSQL database, with an appropriately structured database table for the list items**
-- [ ] **The PostgreSQL database includes a table that matches the data displayed in the web app**
-  - [ ] **NOTE: Your GIF or a screenshot added to the README must include a view of your Railway database that shows the contents of the table used by your app**
+- [X] **The web app uses only HTML, CSS, and JavaScript without a frontend framework**
+- [X] **The web app is connected to a PostgreSQL database, with an appropriately structured database table for the list items**
+- [X] **The PostgreSQL database includes a table that matches the data displayed in the web app**
+  - [X] **NOTE: Your GIF or a screenshot added to the README must include a view of your Railway database that shows the contents of the table used by your app**
 
 The following **optional** features are implemented:
 
@@ -28,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.veed.io/view/2c619a0e-f05a-4d4a-a685-6ca1ed4a026b' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  GIF tool here
