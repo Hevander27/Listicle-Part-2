@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://www.veed.io/view/2c619a0e-f05a-4d4a-a685-6ca1ed4a026b' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/0ySCd9H' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  GIF tool here
