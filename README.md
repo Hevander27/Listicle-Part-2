@@ -1,6 +1,6 @@
 # WEB103 Project 2 - *Listicle Part 2*
 
-Submitted by: **Your name here**
+Submitted by: **Hevander Da Costa**
 
 About this web app: **App description here**
 
