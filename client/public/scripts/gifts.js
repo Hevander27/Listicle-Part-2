@@ -70,7 +70,7 @@ const renderGifts = async () => {
     }
     else {
       const message = document.createElement('h2')
-      message.textContent = 'No Gifts Available 😞'
+      message.textContent = 'No Gifts Available'
       mainContent.appendChild(message)
     }
    }
